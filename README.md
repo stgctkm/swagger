@@ -3,6 +3,8 @@
 ## Swagger
 http://swagger.io/
 
+### 参考URL
+http://heidloff.net/article/usage-of-swagger-2-0-in-spring-boot-applications-to-document-apis/
 
 ## 設定
 build.gradle
